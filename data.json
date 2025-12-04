@@ -21,8 +21,7 @@
         "kb:*",
         "app:*",
         "llm:*",
-        "agent:create",
-        "agent:use"
+        "agent:*"
       ]
     },
     {
